@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+var a = prompt("Dime un número.");
+var b = prompt("Dime otro número.");
+c = parseInt(a) + parseInt(b)
+d = parseInt(a) - parseInt(b)
+e = parseInt(a) * parseInt(b)
+f = parseInt(a) / parseInt(b)
+alert("La suma de estos dos números es "+c);
+alert("La resta de estos dos números es "+d);
+alert("La multiplicación de estos dos números es "+e);
+alert("La división de estos dos números es "+f);
+    </script>
+  </body>
+</html>

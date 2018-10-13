@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Elija un número del 1 al 7");
+var b = "";
+a = parseInt(a)
+switch (a) {
+  case 1:
+  b = "Lunes";
+  break;
+  case 2:
+  b = "Martes";
+  break;
+  case 3:
+  b = "Miércoles";
+  break;
+  case 4:
+  b = "Jueves";
+  break;
+  case 5:
+  b = "Viernes";
+  break;
+  case 6:
+  b = "Sábado";
+  break;
+  case 7:
+  b = "Domingo";
+  break;
+default:
+b = "Error"
+}
+
+    alert(b);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+   <script>
+
+   var b = prompt("Di un número entero positivo y se mostrara su factorial")
+           var a ;
+           for (a = b ; a >=1 ; a--){
+        document.write("<h1>"+a+"</h1>")
+       }
+       </script>
+</body>
+</html>

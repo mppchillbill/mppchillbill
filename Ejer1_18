@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+var a = prompt("Ingreso del precio de una batamanta:");
+var b = prompt("Dinero del que dispone:");
+a = parseInt(a);
+b = parseInt(b);
+c = (a-b);
+alert("Usted debe abonar "+c+"euros.");
+    </script>
+  </body>
+</html>

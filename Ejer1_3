@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    console.log("Soy Pepito grillo");
+    console.log("Tengo 17 años")
+    </script>
+  </body>
+</html>

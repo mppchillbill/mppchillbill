@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Elija opción 1, 2, 3, 4 o 5");
+var b = "";
+a = parseInt(a)
+switch (a) {
+  case 1:
+  b = "Ha elegido la opción 1";
+  break;
+  case 2:
+  b = "Ha elegido la opción 2";
+  break;
+  case 3:
+  b = "Ha elegido la opción 3";
+  break;
+  case 4:
+  b = "Ha elegido la opción 4";
+  break;
+  case 5:
+  b = "Ha elegido la opción 5";
+  break;
+default:
+b = "Error"
+}
+
+    alert(b);
+    </script>
+  </body>
+</html>

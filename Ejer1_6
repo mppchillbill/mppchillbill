@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    alert(1+2) //Hacemos una suma
+    alert(3-4)
+    alert(5*6) /*Hacemos una multiplicación de
+    dos numeros*/
+    alert(7/8)
+    </script>
+
+  </body>
+</html>

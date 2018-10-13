@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Dime un número");
+var b = prompt("Dime otro número");
+var c = prompt("¿Qué quieres hacer con estos números?");
+
+a = parseInt(a);
+b = parseInt(b);
+
+var d = (a + b)
+var e = (a - b)
+var f = (a/b)
+var g = (a*b)
+if (c == "sumar") {
+  alert(d);
+} else if (c == "restar") {
+  alert(e);
+} else if (c == "dividir") {
+  alert(f);
+} else if (c == "multiplicar") {
+  alert(g);
+}
+    </script>
+  </body>
+</html>

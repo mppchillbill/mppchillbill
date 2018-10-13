@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ejer1_5</title>
+  </head>
+  <body>
+    <script>
+    var a = "H";
+    var b = "O";
+    var c = "L";
+    var d = "A";
+    var e = a + b + c + d;
+    alert (e);
+    </script>
+  </body>
+</html>

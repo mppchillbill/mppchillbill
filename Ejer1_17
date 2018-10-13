@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<script>
+var a = prompt("¿Cuál es tu nombre de usuario?")
+var b = prompt("¿Cuál es tu gmail")
+
+document.write("Nombre de usuario: "+a+"<p>Gmail: "+b+"")
+
+
+</script>
+  </body>
+</html>

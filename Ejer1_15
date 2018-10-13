@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+var a = prompt("¿Cuál es tu nombre?");
+var b = prompt("¿Cuál es tu sueldo de operario?");
+
+ document.write("Tu nombre es: "+a+"<p>Tu sueldo de operario es de: "+b+"</p>");
+
+    </script>
+  </body>
+</html>

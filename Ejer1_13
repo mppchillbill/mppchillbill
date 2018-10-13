@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var edad = prompt("¿Cuántos años tienes?");
+
+edad = parseInt(edad);
+
+var meses = (edad*12);
+alert("Entonces tú tienes "+meses+" meses.");
+
+    </script>
+
+  </body>
+</html>

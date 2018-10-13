@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    
+var nota = 3;
+var mensaje = "";
+switch (nota) {
+  case 0:
+  mensaje = "Suspendido";
+  break;
+  case 1:
+  mensaje = "Suspendido";
+  break;
+  case 2:
+  mensaje = "Suspendido";
+  break;
+  case 3:
+  mensaje = "Suspendido";
+  break;
+  case 4:
+  mensaje = "Suspendido";
+  break;
+  case 5:
+  mensaje = "Suficiente";
+  break;
+  case 6:
+  mensaje = "Bien";
+  break;
+  case 7:
+  mensaje = "Notable";
+  break;
+  case 8:
+  mensaje = "Notable";
+  break;
+  case 9:
+  mensaje = "sobresaliente";
+  break;
+  case 10:
+  mensaje = "Sobresaliente";
+  break;
+  default:
+  mensaje = "El valor no es válido"
+}
+alert(""+mensaje+"")
+
+
+
+
+
+    </script>
+  </body>
+</html>

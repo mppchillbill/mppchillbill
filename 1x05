@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mauro's Javascript</title>
+  </head>
+  <body>
+    <script>
+//cajas de diálogo - Método prompt
+var peso = prompt("Hola, cuál es tu peso?");
+
+peso = parseInt(peso);
+
+var peso_luna = (peso / 9.81) * 1.6;
+alert("Hello there. Tu peso en la luna es de "+peso_luna+" kg");
+
+    </script>
+
+  </body>
+</html>

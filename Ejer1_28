@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Dime un número");
+var b = prompt("Dime otro número");
+var c = prompt("Dime un número más");
+
+a = parseInt(a);
+b = parseInt(b);
+c = parseInt(c);
+
+if (a>b) {
+  if (b>c) {
+  document.write("<h1>"+a+", "+b+", "+c+"</h1>");
+} else {
+  if (c>a) {
+  document.write("<h1>"+c+", "+a+", "+b+"</h1>");
+} else {
+  document.write("<h1>"+a+", "+c+", "+b+"</h1>");
+}
+}
+} else {
+  if (a>c) {
+    document.write("<h1>"+b+", "+a+", "+c+"</h1>");
+  } else {
+    if (c>b) {
+      document.write("<h1>"+c+", "+b+", "+a+"</h1>");
+    } else {
+      document.write("<h1>"+b+", "+c+", "+a+"</h1>");
+    }
+  }
+}
+    </script>
+  </body>
+</html>

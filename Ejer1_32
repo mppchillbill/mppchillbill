@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Dime una puntuación del 1 al 10");
+var b = "";
+a = parseInt(a)
+switch (a) {
+  case 0:
+  b = "Suspendido";
+  break;
+  case 1:
+  b = "Suspendido";
+  break;
+  case 2:
+  b = "Suspendido";
+  break;
+  case 3:
+  b = "Suspendido";
+  break;
+  case 4:
+  b = "Suspendido";
+  break;
+  case 5:
+  b = "Suficiente";
+  break;
+  case 6:
+  b = "Bien";
+  break;
+  case 7:
+  b = "Notable";
+  break;
+  case 8:
+  b = "Notable";
+  break;
+  case 9:
+  b = "Sobresaliente";
+  break;
+  case 10:
+  b = "Sobresaliente";
+  break;
+  default:
+  b = "El valor no es válido"
+}
+alert(""+b+"")
+
+
+
+
+
+    </script>
+  </body>
+</html>
+>

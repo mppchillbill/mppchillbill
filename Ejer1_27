@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Dime un número entero");
+var b = prompt("Dime otro número entero");
+if (a>b){
+  document.write("<h1>"+a+", "+b+"</h1>");
+} else {
+  document.write("<h1>"+b+", "+a+"</h1>");
+}
+
+
+    </script>
+
+  </body>
+</html>

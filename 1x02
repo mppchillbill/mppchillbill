@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Bienvenido a las instrucciones de salida</h1>
+    <p id="miParrafo">Párrafo de prueba
+      <script>
+        window.alert("Hola");
+        document.write("<h2>¿Qué tal?</h2>");
+        document.getElementById("miParrafo").
+          innerHTML = "Parrafo cambiado";
+        console.log(7+13);
+        </script>
+  </body>
+</html>

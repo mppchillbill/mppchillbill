@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+var a = prompt("Número de DNI (sin letra)");
+var b = (a%23);
+var c = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D" ,"X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E", "T"];
+
+ if (b == 0) {
+   alert("La letra de este DNI es: "+c[0]+"");
+ } else if (b == 1) {
+   alert("La letra de este DNI es: "+c[1]+"");
+ } else if (b == 2) {
+   alert("La letra de este DNI es: "+c[2]+"");
+ } else if (b == 3) {
+   alert("La letra de este DNI es: "+c[3]+"");
+ } else if (b == 4) {
+   alert("La letra de este DNI es: "+c[4]+"");
+ } else if (b == 5) {
+   alert("La letra de este DNI es: "+c[5]+"");
+ } else if (b == 6) {
+   alert("La letra de este DNI es: "+c[6]+"");
+ } else if (b == 7) {
+   alert("La letra de este DNI es: "+c[7]+"");
+ } else if (b == 8) {
+   alert("La letra de este DNI es: "+c[8]+"");
+ } else if (b == 9) {
+   alert("La letra de este DNI es: "+c[9]+"");
+ } else if (b == 10) {
+   alert("La letra de este DNI es: "+c[10]+"");
+ } else if (b == 11) {
+   alert("La letra de este DNI es: "+c[11]+"");
+ } else if (b == 12) {
+   alert("La letra de este DNI es: "+c[12]+"");
+ } else if (b == 13) {
+   alert("La letra de este DNI es: "+c[13]+"");
+ } else if (b == 14) {
+   alert("La letra de este DNI es: "+c[14]+"");
+ } else if (b == 15) {
+   alert("La letra de este DNI es: "+c[15]+"");
+ } else if (b == 16) {
+   alert("La letra de este DNI es: "+c[16]+"");
+ } else if (b == 17) {
+   alert("La letra de este DNI es: "+c[17]+"");
+ } else if (b == 18) {
+   alert("La letra de este DNI es: "+c[18]+"");
+ } else if (b == 19) {
+   alert("La letra de este DNI es: "+c[19]+"");
+ } else if (b == 20) {
+   alert("La letra de este DNI es: "+c[20]+"");
+ } else if (b == 21) {
+   alert("La letra de este DNI es: "+c[21]+"");
+ } else {
+   alert("La letra de este DNI es: "+c[22]+"");
+ }
+
+
+
+    </script>
+  </body>
+</html>

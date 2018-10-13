@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <script>
+    //Declaración de Variables
+    var a = 1; //Variables a
+    var b = 2; //Variable b
+
+    /*
+      Esta operación realiza
+      la suma de a y b
+    */
+    //a = 2;
+
+    var c = a + b;
+    alert (c);
+    </script>
+  </body>
+</html>

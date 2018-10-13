@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+var nombre = prompt("¿Cómo te llamas?");
+
+var apellido = prompt("¿Cuál es tu primer apellido");
+
+alert("Hola, muy buenas don "+nombre+" "+apellido+",que te vaya bien.");
+
+    </script>
+  </body>
+</html>
