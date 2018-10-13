@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<script>
+
+var b = prompt("Di un número del 1 al 100");
+var a = 50;
+ if (b<a){
+   alert("Te has quedado corto");
+   var b = prompt("Di un número del 1 al 100");
+   var a = 50;
+    if (b<a){
+      alert("Te has quedado corto");
+      var b = prompt("Di un número del 1 al 100");
+      var a = 50;
+       if (b<a){
+         alert("Te has quedado corto");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       } else {
+         alert("Te has pasado");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                } else {
+                  alert("Te has pasado");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                } else {
+                  alert("Te has pasado");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                } else {
+                  alert("Te has pasado");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                } else {
+                  alert("Te has pasado");
+                  var b = prompt("Di un número del 1 al 100");
+                  var a = 50;
+                   if (b<a){
+                     alert("Te has quedado corto");
+                   } else {
+                     alert("Te has pasado");
+                   }
+                }
+             }
+          }
+       }
+    } else {
+      alert("Te has pasado");
+      var b = prompt("Di un número del 1 al 100");
+      var a = 50;
+       if (b<a){
+         alert("Te has quedado corto");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       } else {
+         alert("Te has pasado");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       }
+    }
+ } else {
+   alert("Te has pasado");
+   var b = prompt("Di un número del 1 al 100");
+   var a = 50;
+    if (b<a){
+      alert("Te has quedado corto");
+      var b = prompt("Di un número del 1 al 100");
+      var a = 50;
+       if (b<a){
+         alert("Te has quedado corto");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       } else {
+         alert("Te has pasado");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       }
+    } else {
+      alert("Te has pasado");
+      var b = prompt("Di un número del 1 al 100");
+      var a = 50;
+       if (b<a){
+         alert("Te has quedado corto");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       } else {
+         alert("Te has pasado");
+         var b = prompt("Di un número del 1 al 100");
+         var a = 50;
+          if (b<a){
+            alert("Te has quedado corto");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          } else {
+            alert("Te has pasado");
+            var b = prompt("Di un número del 1 al 100");
+            var a = 50;
+             if (b<a){
+               alert("Te has quedado corto");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             } else {
+               alert("Te has pasado");
+               var b = prompt("Di un número del 1 al 100");
+               var a = 50;
+                if (b<a){
+                  alert("Te has quedado corto");
+                } else {
+                  alert("Te has pasado");
+                }
+             }
+          }
+       }
+    }
+ }
+
+    </script>
+  </body>
+</html>
